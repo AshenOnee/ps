@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\ps\ps\bin\Debug\ps.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\ps\ps\bin\Debug\ps.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\ps\ps\bin\Debug\ps.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\ps\ps\obj\Debug\ps.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\ps\ps\obj\Debug\ps.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\ps\ps\obj\Debug\ps.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\ps\ps\obj\Debug\ps.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\ps\ps\bin\Debug\NDesk.Options.dll
